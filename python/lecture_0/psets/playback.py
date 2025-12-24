@@ -1,0 +1,2 @@
+value = input().split(" ") # separates each word on space, like: hello world => ["hello", "world"]
+print("...".join(value)) # apply ... on join each word of array => "hello...world" transforming into str
